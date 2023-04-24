@@ -10,6 +10,11 @@
   - [Configuring Active Directory within Azure Virtual Machines (VMs)](https://github.com/jasonregj/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/jasonregj/azure-network-protocols)
 
+<h2> Credentials </h2>
+
+<b>Information Technology Certifications</b>
+  -[IT Certs](https://github.com/jasonregj/credentials)
+
 <h2> Connect with me:</h2>
 
 [<img align="left" alt="Jason | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
